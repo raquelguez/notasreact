@@ -1,3 +1,33 @@
+# PROYECTO BÁSICO DE REACT: TO DO LIST
+![](https://i.pinimg.com/originals/6f/4b/75/6f4b750751e46a439abe0507cae8c54e.png)
+
+Proyecto básico en el aprendizaje de React: web para gestión de tareas. Proyecto en el que desarrollé la aplicación básica inicial que era una "TO DO LIST", para materializar una aplicación para publicar, modificar y borrar artículos.
+
+## Características
+- Mock-up de la página.
+- Dominio de JS, HTML y CSS como base para el desarrollo de un framework: REACT.
+- Crear un servidor express en el que se recogen peticiones a unas rutas definidas.
+- Peticiones de tipo GET y POST que sirven para obtener e introducir información en una base de Datos.
+- Aplicación de React con distintos componentes que se muestran en función de la ruta a la que vaya el usuario.
+- Página responsiva.
+
+## Tecnologías usadas
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## 🚀 Raquel Rodríguez Sebastián
+
+Me llamo Raquel y estoy empezando en el mundo del desarrollo web. Hice un bootcamp intensivo de Javascript y este fue parte de mi desarrollo en React. 
+
+Fui capaz de desarrollar una aplicación para publicar, modificar y borrar artículos conectada a una base de datos.
+
+### 💌 Contacto
+Si quieres seguir mi progreso sígueme en mis Redes Sociales:
+
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/raquelguez)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/raquelrodríguezsebastián/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
