@@ -1,7 +1,7 @@
 # PÁGINA PARA PUBLICAR, MODIFICAR, ELIMINAR Y GUARDAR ARTÍCULOS
 ![](https://i.pinimg.com/originals/6f/4b/75/6f4b750751e46a439abe0507cae8c54e.png)
 
-Proyecto básico en el aprendizaje de React: web para gestión de tareas. Proyecto en el que desarrollé la aplicación básica inicial que era una "TO DO LIST", para materializar una aplicación para publicar, modificar y borrar artículos.
+Proyecto en el que desarrollé la aplicación básica inicial que era una "TO DO LIST", para materializar una aplicación para publicar, modificar y borrar artículos.
 
 ## Características
 - Mock-up de la página.
