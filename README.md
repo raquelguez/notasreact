@@ -1,5 +1,5 @@
 # PÁGINA PARA PUBLICAR, MODIFICAR, ELIMINAR Y GUARDAR ARTÍCULOS
-![](https://i.pinimg.com/originals/6f/4b/75/6f4b750751e46a439abe0507cae8c54e.png)
+![](https://i.pinimg.com/originals/43/df/88/43df88cf913b67b97e5424ccfc085d36.png)
 
 Proyecto en el que desarrollé la aplicación básica inicial que era una "TO DO LIST", para materializar una aplicación para publicar, modificar y borrar artículos.
 
@@ -16,6 +16,9 @@ Proyecto en el que desarrollé la aplicación básica inicial que era una "TO DO
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Raquel Rodríguez Sebastián
 
